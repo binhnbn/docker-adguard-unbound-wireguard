@@ -24,8 +24,8 @@ services:
     environment:
       # ⚠️ Required:
       # Change this to your host's public address
-      - WG_HOST= 103.162.20.165
-      - PASSWORD=23031994@dminN
+      - WG_HOST= 
+      - PASSWORD=
       - WG_PORT=51820
       - WG_DEFAULT_ADDRESS=10.6.0.x
       - WG_DEFAULT_DNS=10.2.0.100
